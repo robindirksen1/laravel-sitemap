@@ -2,6 +2,26 @@
 
 All notable changes to `laravel-sitemap` will be documented in this file
 
+## 5.2.5 - 2018-10-17
+
+- Remove unused dependency
+
+## 5.2.4 - 2018-09-17
+
+- Make all generated links absolute
+
+## 5.2.3 - 2018-08-28
+
+- Add support for Laravel 5.7
+
+## 5.2.2 - 2018-08-26
+
+- Make methods on `SitemapGenerator` fluent
+
+## 5.2.1 - 2018-07-23
+
+- Improve indentation of rendered output
+
 ## 5.2.0 - 2018-05-08
 
 - Support robots checks.
